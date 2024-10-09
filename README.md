@@ -1,6 +1,3 @@
 # Registration-Form
 fcc registration form
-enter email
-
-
-testing 
+enter email, password, etc.
