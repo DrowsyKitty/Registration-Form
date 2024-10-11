@@ -1,3 +1,3 @@
 # Registration-Form
 fcc registration form
-enter email, password, etc.
+enter email, password with requirements, link to profile picture
